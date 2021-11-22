@@ -35,6 +35,10 @@ nvm use node
 ```
 
 ## usage
+
 ```sh
+mkdir workspace; cd workspace
+git clone git@github.com:jimcarol/301redirect-test-tool.git
+cd 301redirect-test-tool
 node index.js
 ```
